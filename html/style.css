@@ -1,0 +1,11 @@
+
+/* External css file with .css extension */
+body{
+    color: aqua;
+}
+p{
+    background-color: antiquewhite;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

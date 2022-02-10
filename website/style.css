@@ -1,0 +1,24 @@
+li{
+    list-style: none;
+}
+.welocmeImage>img{
+    height: 800px;
+    width: 1400px;
+}
+
+.footer{
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    height: 120px;
+}
+
+.footer>h2{
+    padding: 20px;
+    size: 70px;
+    text-decoration:solid
+}
+.footer>p{
+    size: 1px;
+    font-style: italic;
+}
